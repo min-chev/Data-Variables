@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Sequence 2k+1\bin\Debug\Sequence 2k+1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Sequence 2k+1\obj\Debug\Sequence 2k+1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Sequence 2k+1\obj\Debug\Sequence 2k+1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Sequence 2k+1\obj\Debug\Sequence 2k+1.pdb

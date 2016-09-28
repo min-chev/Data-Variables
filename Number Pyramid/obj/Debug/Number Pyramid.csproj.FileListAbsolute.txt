@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Pyramid\bin\Debug\Number Pyramid.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Pyramid\obj\Debug\Number Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Pyramid\bin\Debug\Number Pyramid.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Pyramid\bin\Debug\Number Pyramid.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Pyramid\obj\Debug\Number Pyramid.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Pyramid\obj\Debug\Number Pyramid.pdb

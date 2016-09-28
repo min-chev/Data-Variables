@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Table\bin\Debug\Number Table.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Table\bin\Debug\Number Table.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Table\bin\Debug\Number Table.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Table\obj\Debug\Number Table.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Table\obj\Debug\Number Table.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Number Table\obj\Debug\Number Table.pdb

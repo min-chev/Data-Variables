@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Greatest Common Divisor (CGD)\bin\Debug\Greatest Common Divisor (CGD).exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Greatest Common Divisor (CGD)\obj\Debug\Greatest Common Divisor (CGD).csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Greatest Common Divisor (CGD)\bin\Debug\Greatest Common Divisor (CGD).exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Greatest Common Divisor (CGD)\bin\Debug\Greatest Common Divisor (CGD).pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Greatest Common Divisor (CGD)\obj\Debug\Greatest Common Divisor (CGD).exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Greatest Common Divisor (CGD)\obj\Debug\Greatest Common Divisor (CGD).pdb

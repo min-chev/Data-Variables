@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Check Prime\bin\Debug\Check Prime.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Check Prime\bin\Debug\Check Prime.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Check Prime\bin\Debug\Check Prime.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Check Prime\obj\Debug\Check Prime.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops Complicated\Check Prime\obj\Debug\Check Prime.pdb
